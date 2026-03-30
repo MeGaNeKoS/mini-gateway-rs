@@ -10,7 +10,7 @@ The Mini Gateway team takes security vulnerabilities seriously. We appreciate yo
 
 To report a security vulnerability, please use one of the following methods:
 
-1. **GitHub Private Vulnerability Reporting** -- Use the [Security Advisories](https://github.com/zonblade/mini-gateway-rs/security/advisories/new) feature to privately report the vulnerability.
+1. **GitHub Private Vulnerability Reporting** -- Use the [Security Advisories](https://github.com/aula-id/mini-gateway-rs/security/advisories/new) feature to privately report the vulnerability.
 2. **Email** -- If private vulnerability reporting is not available, open a PR with the prefix `REPORT:` containing only the necessary details.
 
 ### What to Include

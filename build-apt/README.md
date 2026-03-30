@@ -8,14 +8,14 @@ This directory contains files for installing GWRS Mini-Gateway components as Deb
 
 ```bash
 # Add the repository and install
-curl -s https://raw.githubusercontent.com/zonblade/mini-gateway-rs/main/build-apt/install.sh | sudo bash
+curl -s https://raw.githubusercontent.com/aula-id/mini-gateway-rs/main/build-apt/install.sh | sudo bash
 ```
 
 ### Manual Installation
 
 1. Download the installation script:
    ```bash
-   wget https://raw.githubusercontent.com/zonblade/mini-gateway-rs/main/build-apt/install.sh
+   wget https://raw.githubusercontent.com/aula-id/mini-gateway-rs/main/build-apt/install.sh
    ```
 
 2. Make it executable:

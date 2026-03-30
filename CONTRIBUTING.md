@@ -22,10 +22,10 @@ This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDU
 
 There are several ways to contribute to Mini Gateway:
 
-- **Report Bugs** -- Found something broken? Open a [Bug Report](https://github.com/zonblade/mini-gateway-rs/issues/new?template=bug_report.yml).
-- **Suggest Features** -- Have an idea? Submit a [Feature Request](https://github.com/zonblade/mini-gateway-rs/issues/new?template=feature_request.yml).
-- **Propose Milestone Work** -- Want to tackle a larger piece of the roadmap? Open a [Milestone Implementation](https://github.com/zonblade/mini-gateway-rs/issues/new?template=milestone_implementation.yml) proposal.
-- **Request Removal** -- Think something should be removed or deprecated? File a [Removal Request](https://github.com/zonblade/mini-gateway-rs/issues/new?template=request_removal.yml).
+- **Report Bugs** -- Found something broken? Open a [Bug Report](https://github.com/aula-id/mini-gateway-rs/issues/new?template=bug_report.yml).
+- **Suggest Features** -- Have an idea? Submit a [Feature Request](https://github.com/aula-id/mini-gateway-rs/issues/new?template=feature_request.yml).
+- **Propose Milestone Work** -- Want to tackle a larger piece of the roadmap? Open a [Milestone Implementation](https://github.com/aula-id/mini-gateway-rs/issues/new?template=milestone_implementation.yml) proposal.
+- **Request Removal** -- Think something should be removed or deprecated? File a [Removal Request](https://github.com/aula-id/mini-gateway-rs/issues/new?template=request_removal.yml).
 - **Report Security Vulnerabilities** -- Please see our [Security Policy](SECURITY.md). Do **not** open a public issue for security vulnerabilities.
 - **Improve Documentation** -- Typos, unclear explanations, missing docs -- all welcome.
 - **Submit Code** -- Bug fixes, performance improvements, new features.
@@ -55,7 +55,7 @@ Pull requests that appear to be predominantly AI-generated without disclosure wi
 
 ```bash
 # Clone the repository
-git clone https://github.com/zonblade/mini-gateway-rs.git
+git clone https://github.com/aula-id/mini-gateway-rs.git
 cd mini-gateway-rs
 
 # Build all workspace members

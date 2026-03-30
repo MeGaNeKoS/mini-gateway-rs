@@ -1,7 +1,7 @@
 # Mini Gateway
 
 <p align="center">
-<img style="height:100%; width: 512px;" src="https://raw.githubusercontent.com/zonblade/mini-gateway-rs/main/assets/logo.png"/></br>
+<img style="height:100%; width: 512px;" src="https://raw.githubusercontent.com/aula-id/mini-gateway-rs/main/assets/logo.png"/></br>
 <span style="font-size:32px;">mini gateway</span></br>
 <span style="font-size:16px;">A very fast yet easy to control Gatway!</span>
 </p>
@@ -74,11 +74,11 @@ The architecture of the mini-gateway is currently simple and straightforward.
 
 ## Documentation
 
-api documentation can be found [here](https://github.com/zonblade/mini-gateway-rs/blob/main/router-api/README.md) , installation not yet ready but will be available both docker and apt-repository.
+api documentation can be found [here](https://github.com/aula-id/mini-gateway-rs/blob/main/router-api/README.md) , installation not yet ready but will be available both docker and apt-repository.
 
 ## Getting Started
 
-for manual build guideline please refer to each dockerfiles in [here](https://github.com/zonblade/mini-gateway-rs/tree/main/build-docker) but we provide docker and binary:
+for manual build guideline please refer to each dockerfiles in [here](https://github.com/aula-id/mini-gateway-rs/tree/main/build-docker) but we provide docker and binary:
 - for the docker you can get it [here on dockerhub](https://hub.docker.com/r/zonblade/mini-gateway/tags)
 - for the binary you can check our github release 
 
